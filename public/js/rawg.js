@@ -170,7 +170,6 @@ function addNewItems(items) {
         $artAll.append($newItem);
         animationDelay += 100;
     }
-    M.AutoInit();
 }
 
 async function loadPaginaTion() {
